@@ -1,0 +1,6 @@
+D:\Git\FP\FunctionProgrammingWithCSharp\FunctionProgramming\FunctionProgramming\bin\Debug\FunctionProgramming.exe.config
+D:\Git\FP\FunctionProgrammingWithCSharp\FunctionProgramming\FunctionProgramming\bin\Debug\FunctionProgramming.exe
+D:\Git\FP\FunctionProgrammingWithCSharp\FunctionProgramming\FunctionProgramming\bin\Debug\FunctionProgramming.pdb
+D:\Git\FP\FunctionProgrammingWithCSharp\FunctionProgramming\FunctionProgramming\obj\Debug\FunctionProgramming.csprojResolveAssemblyReference.cache
+D:\Git\FP\FunctionProgrammingWithCSharp\FunctionProgramming\FunctionProgramming\obj\Debug\FunctionProgramming.exe
+D:\Git\FP\FunctionProgrammingWithCSharp\FunctionProgramming\FunctionProgramming\obj\Debug\FunctionProgramming.pdb
